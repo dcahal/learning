@@ -1,3 +1,3 @@
-## Exercises
+# Exercises
 
-Exercises and related work files from different courses I've taken.
+Completed exercises and related work files for different books and courses I've worked through.
