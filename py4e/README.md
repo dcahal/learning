@@ -4,6 +4,6 @@
 
 [Book & Materials](https://www.py4e.com/)
 
-Charles Severance
-University of Michigan
+Charles Severance  
+University of Michigan  
 [Github](https://github.com/csev)
