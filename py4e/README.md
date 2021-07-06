@@ -1,6 +1,5 @@
 # Python for Everybody
-## Dr. Charles Severance
-## 2016
+## 2016 — Dr. Charles Severance
 
 [Book & Materials](https://www.py4e.com/)
 
