@@ -12,9 +12,6 @@ while True:
         continue
     count = count + 1
     total = total + num
-    if count is None or total is None:
-        count = 1
-        total = num
 
 print('Sum:', total)
 print('Entries:', count)
