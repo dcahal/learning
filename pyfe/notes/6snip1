@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+fruit = "banana"
+print(fruit)
+print(fruit[:])
+print(fruit[0:])
+print(fruit[-6:])
+# print(fruit[-6:0]) Returns empty line, same as [:0]
