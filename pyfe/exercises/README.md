@@ -12,14 +12,14 @@
 10. [Tuples][10]
 11. [Regex][11]
 
-[1][https://www.py4e.com/html3/01-intro]
-[2][https://www.py4e.com/html3/02-variables]
-[3][https://www.py4e.com/html3/03-conditional]
-[4][https://www.py4e.com/html3/04-functions]
-[5][https://www.py4e.com/html3/05-iterations]
-[6][https://www.py4e.com/html3/06-strings]
-[7][https://www.py4e.com/html3/07-files]
-[8][https://www.py4e.com/html3/08-lists]
-[9][https://www.py4e.com/html3/09-dictionaries]
-[10][https://www.py4e.com/html3/10-tuples]
-[11][https://www.py4e.com/html3/11-regex]
+[1]: https://www.py4e.com/html3/01-intro
+[2]: https://www.py4e.com/html3/02-variables
+[3]: https://www.py4e.com/html3/03-conditional
+[4]: https://www.py4e.com/html3/04-functions
+[5]: https://www.py4e.com/html3/05-iterations
+[6]: https://www.py4e.com/html3/06-strings
+[7]: https://www.py4e.com/html3/07-files
+[8]: https://www.py4e.com/html3/08-lists
+[9]: https://www.py4e.com/html3/09-dictionaries
+[10]: https://www.py4e.com/html3/10-tuples
+[11]: https://www.py4e.com/html3/11-regex
