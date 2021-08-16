@@ -11,6 +11,11 @@
 9. [Dictionaries][9]
 10. [Tuples][10]
 11. [Regex][11]
+12. [Networked Programs][12]
+13. [Python and Web Services][13]
+14. [Python Objects][14]
+15. [Python and Databases][15]
+16. [Data Visualization][16]
 
 [1]: https://www.py4e.com/html3/01-intro
 [2]: https://www.py4e.com/html3/02-variables
@@ -23,3 +28,8 @@
 [9]: https://www.py4e.com/html3/09-dictionaries
 [10]: https://www.py4e.com/html3/10-tuples
 [11]: https://www.py4e.com/html3/11-regex
+[12]: https://www.py4e.com/html3/12-network
+[13]: https://www.py4e.com/html3/13-web
+[14]: https://www.py4e.com/html3/14-objects
+[15]: https://www.py4e.com/html3/15-database
+[16]: https://www.py4e.com/html3/16-viz
