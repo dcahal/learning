@@ -15,7 +15,7 @@
 
  * Charles Severance  
  * University of Michigan  
- * [Github](https://github.com/csev)
+ * [Instructor Github](https://github.com/csev)
 
 ## [Learn How to Code: Google's Go Programming Language](lhtcgg/)
 ### 2018 — Dr. Todd McLeod
@@ -26,4 +26,4 @@
 
  * Todd McLeod  
  * Fresno City College  
- * [Github](https://github.com/GoesToEleven/)
+ * [Instructor Github](https://github.com/GoesToEleven/)
