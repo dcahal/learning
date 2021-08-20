@@ -1,0 +1,6 @@
+#!/usr/bin/python
+
+
+la = "wooter"
+print(la)
+print(la.upper())
