@@ -3,15 +3,16 @@
 # When you encounter a line that starts with “X-DSPAM-Confidence:” pull apart the line to extract the floating-point number on the line. Count these lines and then compute the total of the spam confidencevalues from these lines. When you reach the end of the file, print out the average spam confidence.
 
 
+sample = input("File to parse: ")
+handle = open(sample)
 
-mbox = open('../provided/mbox-short.txt')
 
 count = 0
 sum = 0
 value = 0
 
 def find_dspam():
-    for line in mbox:
+    for line in handle:
         found = line.find('X-DSPAM-Confidence:')
         grab = line[found+1:]
         # num = grab.lstrip()
@@ -19,7 +20,7 @@ def find_dspam():
         value  = float(grab)
 
 def find_totals():
-    for value in mbox:
+    for value in handle:
         count = count + 1
         sum = sum + value
             
