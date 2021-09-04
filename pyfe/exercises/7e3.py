@@ -9,8 +9,6 @@ try:
 except:
     print('File cannot be opened:', fname)
     exit()
-if fname == "na na boo boo" :
-    print("Looks like we've got a comedian here. Laugh it up, buddy.")
 count = 0
 for line in fhand:
     if line.startswith('Subject:'):
