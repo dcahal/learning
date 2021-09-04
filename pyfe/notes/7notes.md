@@ -1,5 +1,5 @@
 ## The file handle is NOT the file.
-Treat this bridge as its own item.
+Treat this bridge as its own item. It also sets "permissions" the script can have over the file. read, write, append, rw (r+)
 
 ## str.find is not grep
 str.find returns the index of the first character where the matching pattern is found.
