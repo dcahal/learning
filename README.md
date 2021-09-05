@@ -17,6 +17,11 @@
  * University of Michigan  
  * [Instructor Github](https://github.com/csev)
 
+## [Harvard CS50](cs50x/) 
+### 2021 — Dr. David Malan
+
+[Book & Materials](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+
 ## [Learn How to Code: Google's Go Programming Language](lhtcgg/)
 ### 2018 — Dr. Todd McLeod
 
