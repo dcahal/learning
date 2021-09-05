@@ -1,6 +1,5 @@
 ## Lecture 0
 
-
 ## Value of 111
 
 ### Base 10
@@ -16,4 +15,11 @@
 |   4   |   2   |   1   |  
 
 
-####Algorithm: step by step instructions for solving a problem
+### Algorithm: step by step instructions for solving a problem
+
+Find name in phone book problem approaches
+ * n -- imperative parsing
+ * n/2 -- skipping pages scales poorly
+ * log₂n -- discard half of input each iteration. Scalable solution
+
+
