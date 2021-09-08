@@ -9,7 +9,7 @@ def chop(ls) :
 def middle(ls) :
     del ls[0]
     del ls[-1]
+    return ls
 
-print(chop(items))
 print(middle(items))
 print(items)
