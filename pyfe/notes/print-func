@@ -1,0 +1,13 @@
+#!/bin/python3
+
+items = ['a', 'b', 'c', 'd']
+
+def middle(ls) :
+    del ls[0]
+    del ls[-1]
+    return ls
+
+# Print statements execute the function
+print(items)            # ['a', 'b', 'c', 'd']
+print(middle(items))    # ['b', 'c']
+print(items)            # ['b', 'c']
