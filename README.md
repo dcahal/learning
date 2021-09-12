@@ -1,7 +1,9 @@
 # Goals
 
  * Port KDE Neon Ruby scripts to Python
- * Create and manage Minikube cluster
+ * Create and manage single node cluster with Minikube
+ * Home lab with git server, media server, firewall
+ * Website with Hugo
  * Completely automate home lab with Ansible + Kubernetes in Minikube
  * AWS CCP
  * RHCSA
