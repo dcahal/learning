@@ -7,7 +7,7 @@ List of things that should be running in Homelab. Figure out how to split these 
 * plex
 * gitea
 * pihole
-* 
+* dnscrypt 
 
 ## Deb/rpm only
 * weechat
