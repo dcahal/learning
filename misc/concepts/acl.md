@@ -24,4 +24,5 @@ ACL permissions in the output of `getfacl` are:
 
 `chmod` can't alter the ACL even with root access. Likewise, `setfacl` does not override `chmod` settwings. They are two distinct rulesets and the `effective` permissions are the most restrictive combination of the two.
 
-* `setfacl -bR`: delete all ACL rules under current location, recursively.
+* **setfacl -bR**
+* Delete all ACL rules under current location, recursively.
