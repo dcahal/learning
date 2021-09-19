@@ -7,7 +7,7 @@
  * Port KDE Neon Ruby scripts to Python
  * Completely automate home lab with Ansible + Kubernetes in Minikube
  * AWS CCP
- * RHCSA
+ * RHCSA or LFCS(?)
 
 # Courses
 
