@@ -1,13 +1,15 @@
 # Goals
 
- * RHEL 8 installed on VM in network
+ * Docker image with full Ubuntu graphical session
  * Home lab with NAS, media server, firewall
  * Create and manage single node cluster with Minikube
  * Website with Hugo
+ * Create local DNS server with dnsmasq
+ * Create local email server
  * Port KDE Neon Ruby scripts to Python
  * Completely automate home lab with Ansible + Kubernetes in Minikube
  * AWS CCP
- * RHCSA or LFCS(?)
+ * LFCS
 
 # Courses
 
