@@ -8,7 +8,7 @@
  * [Instructor Github](https://github.com/sandervanvugt)
 
 ## [Linux Academy](la/) 
-### 2020 — Mike Bunch & Chad Miller
+### 2020 — Chad Miller & Mike Bunch
 
 [Materials](https://acloudguru.com/course/linux-foundation-certified-system-administrator-lfcs)
 
