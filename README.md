@@ -6,6 +6,7 @@
  * Website with Hugo
  * Create local DNS server with dnsmasq
  * Create local email server
+ * FreeIPA with Windows client
  * Port KDE Neon Ruby scripts to Python
  * Completely automate home lab with Ansible + Kubernetes in Minikube
  * AWS CCP
