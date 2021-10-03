@@ -1,4 +1,4 @@
-# Courses
+# Prep material for LFCS exam
 
 ## [Sander van Vugt](svv/) 
 ### 2019
