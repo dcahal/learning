@@ -4,7 +4,7 @@ This is the nmap scan from OverTheWire's bandit16:
 
 > First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
 
-```bash
+```
 bandit16@bandit:~$ nmap -A -T4 -p 31000-32000 localhost
 
 Starting Nmap 7.40 ( https://nmap.org ) at 2021-10-15 01:28 CEST
