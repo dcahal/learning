@@ -4,7 +4,7 @@
 DAY="$(date -I)"
 BACKUPDIR="./companyA/IA"
 NAME="$DAY-backup-companyA.tar.gz"
-TARBALL="$BACKUP/$NAME"
+TARBALL="$BACKUPDIR/$NAME"
 
 # Get checksums of existing backups
 EXISTING="$(cksum ./companyA/IA/*backup-companyA.tar.gz)"
