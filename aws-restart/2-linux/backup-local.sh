@@ -4,7 +4,7 @@
 DAY="$(date -I)"
 BACKUPDIR="./companyA/IA"
 NAME="$DAY-backup-companyA.tar.gz"
-TARBALL="$NAME"
+TARBALL="$BACKUP/$NAME"
 
 # Get checksums of existing backups
 EXISTING="$(cksum ./companyA/IA/*backup-companyA.tar.gz)"
@@ -16,7 +16,6 @@ tar --exclude=./companyA/IA/*backup-companyA.tar.gz -cpzf "$TARBALL" ./companyA/
 NEWCK="$(cksum "$TARBALL" | cut -d " " -f 1)"
 MATCH="$(echo "$EXISTING" | grep "$NEWCK")"
 if [ -z "$MATCH" ] ; then
-    cp "$TARBALL" "$BACKUPDIR"
     echo "Created backup $NAME in $BACKUPDIR"
 else
     echo "No new changes to companyA. Backup not needed."
