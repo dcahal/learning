@@ -34,6 +34,7 @@ Compute, Networking, Storage
 * Elastic Load Balancing: Automatically distribute incoming traffic to multiple targets
 * CloudFront: CDN
     * APIs can run over a CDN
+* Web APPLICATION Firewall is a Layer 7 firewall. Application Layer.
 * Transit Gateway: Single gateway for VPC and on-prem
 * Route 53: DNS
 * Direct Connect: Dedicated private connection between your data center and AWS
