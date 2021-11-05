@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Install Apache web server from repository
-yum install httpd -y
+yum install httpd wget -y
 
 # Start httpd service with systemd
 systemctl enable httpd
